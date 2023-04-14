@@ -3,12 +3,12 @@ package javadoc1;
 /**
  * Esta clase representa un objeto Coche.
  *
- * @author Alberto Ruiz
+ * Autor Misco.
  * @version 1.0
  * @since 2022-03-01
  */
 
-public class Persona {
+public class PeTete {
     
     private String nombre;
     private int edad;
